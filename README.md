@@ -7,11 +7,6 @@ Visualized sorting steps: Each step of the merge sort algorithm is visually repr
 Random array generation: Generate a random array of numbers to visualize the sorting process.
 Control sorting speed: Adjust the speed of the sorting animation to observe the process in detail.
 Responsive design: Works seamlessly on all devices, from desktops to mobile phones.
-Getting Started
-Clone the repository: git clone https://github.com/your-username/react-merge-sort-visualizer.git
-Install dependencies: npm install
-Run the development server: npm start
-Open your browser to http://localhost:3000
 Technologies Used
 React: For building the user interface and managing state.
 D3.js (optional): For creating the visualizations (can be replaced with other libraries like Chart.js).
